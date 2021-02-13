@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Kumar
-- 👀 I’m interested in competitive programming, Android Development .
+- 👀 I’m interested in competitive programming, Android Development and Leadership .
 - 🌱 I’m currently learning Android Developent and Penetration testing.
-- 💞️ I’m looking to collaborate on machine learning project in this we can do securely driving.
+- 💞️ I’m looking to collaborate on machine learning project in this we are working on a ML model that help to drive secure.
 - 📫 You reach me on my mail a9649060356@gmail.com , I happy to help you
 
 <!---
