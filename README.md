@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepak Kumar
-- 👀 I’m interested in competitive programming, Android Development and Leadership .
+- 👀 I’m interested in competitive programming .
 - 🌱 I’m currently learning Android Developent and Penetration testing.
 - 💬 Ask me about DSA , Android Development. 
 - 💞️ I’m looking to collaborate on Block chain Project.
