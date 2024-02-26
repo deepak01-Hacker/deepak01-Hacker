@@ -2,8 +2,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=deepak01-Hacker.deepak01-Hacker)
 
-<br />
-
 hi, i'm [Deepak Kumar ](https://www.linkedin.com/in/deepak-kumar30/), a passionate self-taught developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
