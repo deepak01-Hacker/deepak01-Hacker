@@ -1,13 +1,4 @@
 ### hey there 
-<a href="https://discord.gg/deepak.coder#9372">
-  <img align="left" alt="Deepak Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/deepak79690937">
-  <img align="left" alt="Deepak  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/deepak-kumar30/">
-  <img align="left" alt="Deepak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=deepak01-Hacker.deepak01-Hacker)
 
